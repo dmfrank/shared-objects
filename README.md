@@ -12,5 +12,5 @@ sbt
 
 or 
 
-sbt compile
+sbt run
 ```
